@@ -1,8 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on AI-based security systems, ML models, and backend development  
-👯 I’m looking to collaborate on AI, ML, cybersecurity, and full-stack projects  
+👯 I’m looking to collaborate on AI, ML and full-stack projects  
 🤝 I’m looking for help with model optimization, advanced NLP, and deployment  
-🌱 I’m currently learning deep learning, transformers, and MLOps  
+🌱 I’m currently learning deep learning and transformers
 💬 Ask me about machine learning, Python, backend APIs, and AI projects  
 ⚡ Fun fact I enjoy turning complex AI problems into simple solutions  
 
